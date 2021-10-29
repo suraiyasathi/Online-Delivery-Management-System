@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 10px;
+	box-sizing: border-box;
+	
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+	background: #f7f6ff;
+}
+
+h3 {
+	margin: 5px;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 2px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li{
+	text-decoration: none;
+	color: #666;
+	padding: 12px 4px;
+	border: 2px solid #999;
+	transition: 0.6s ease;
+}
+
+ul li a:hover{
+	background-color: #6969;
+	color #6969;
+}
+
+ol{
+	float: left;
+	list-style-type: none;
+}
+
+ol li{
+	color: #000;
+	padding: 4px 180px;
+	
+	transition: 0.4s ease;
+}
+
